@@ -6,6 +6,10 @@ public class A {
 		System.out.println("This is m1-methd");
 	}
 	
+	public void m2() {
+		System.out.println("This is m2-methd added from gitshub");
+	}
+	
 	public static void main(String[] args) {
 		System.out.println("Demo for gits");
 	}
